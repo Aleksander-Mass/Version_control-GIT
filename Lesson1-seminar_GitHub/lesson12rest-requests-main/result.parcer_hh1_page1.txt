@@ -1,0 +1,76 @@
+
+
+
+
+
+"C:\Program Files\Python310\python.exe" "H:/копия ЗРЕНИЕ/Искусственный Интеллект/2022/12.02.22 Занятия/Python - разработчик/12.REST запросы с requests. Работа с API/parcer_hh1_page1.py" 
+{'accept_temporary': False,
+ 'address': {'building': 'метро Петроградская',
+             'city': 'Санкт-Петербург',
+             'description': None,
+             'id': '11626250',
+             'lat': 59.966399,
+             'lng': 30.311511,
+             'metro': {'lat': 59.966389,
+                       'line_id': '15',
+                       'line_name': 'Московско-Петроградская',
+                       'lng': 30.311293,
+                       'station_id': '15.215',
+                       'station_name': 'Петроградская'},
+             'metro_stations': [{'lat': 59.966389,
+                                 'line_id': '15',
+                                 'line_name': 'Московско-Петроградская',
+                                 'lng': 30.311293,
+                                 'station_id': '15.215',
+                                 'station_name': 'Петроградская'}],
+             'raw': 'Санкт-Петербург, 2 линия, метро Петроградская',
+             'street': '2 линия'},
+ 'adv_response_url': 'https://api.hh.ru/vacancies/73869429/adv_response?host=hh.ru',
+ 'alternate_url': 'https://hh.ru/vacancy/73869429',
+ 'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=73869429',
+ 'archived': False,
+ 'area': {'id': '2',
+          'name': 'Санкт-Петербург',
+          'url': 'https://api.hh.ru/areas/2'},
+ 'contacts': None,
+ 'created_at': '2023-01-02T16:51:52+0300',
+ 'department': None,
+ 'employer': {'alternate_url': 'https://hh.ru/employer/8954862',
+              'id': '8954862',
+              'logo_urls': {'240': 'https://hhcdn.ru/employer-logo/5606721.png',
+                            '90': 'https://hhcdn.ru/employer-logo/5606720.png',
+                            'original': 'https://hhcdn.ru/employer-logo-original/996481.png'},
+              'name': 'Crystal Rock ltd',
+              'trusted': True,
+              'url': 'https://api.hh.ru/employers/8954862',
+              'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=8954862'},
+ 'has_test': False,
+ 'id': '73869429',
+ 'insider_interview': None,
+ 'name': 'Unity3D C# Developer',
+ 'premium': False,
+ 'published_at': '2023-01-02T16:51:52+0300',
+ 'relations': [],
+ 'response_letter_required': False,
+ 'response_url': None,
+ 'salary': {'currency': 'RUR', 'from': 150000, 'gross': False, 'to': 180000},
+ 'schedule': {'id': 'fullDay', 'name': 'Полный день'},
+ 'snippet': {'requirement': 'Владение ООП и опыт применения на практике. '
+                            'Уверенное знание и опыт '
+                            '<highlighttext>C#</highlighttext>. Уверенное '
+                            'знание и опыт Unity3d. ',
+             'responsibility': None},
+ 'sort_point_distance': None,
+ 'type': {'id': 'open', 'name': 'Открытая'},
+ 'url': 'https://api.hh.ru/vacancies/73869429?host=hh.ru',
+ 'working_days': [],
+ 'working_time_intervals': [],
+ 'working_time_modes': []}
+
+Process finished with exit code 0
+
+
+
+
+
+

@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+
+
+
+
+
+"C:\Program Files\Python310\python.exe" "H:/копия ЗРЕНИЕ/Искусственный Интеллект/2022/12.02.22 Занятия/Python - разработчик/12.REST запросы с requests. Работа с API/parcer_hh1_page1_1.py" 
+https://hh.ru/vacancy/73869429
+{'accept_handicapped': False,
+ 'accept_incomplete_resumes': False,
+ 'accept_kids': False,
+ 'accept_temporary': False,
+ 'address': {'building': 'метро Петроградская',
+             'city': 'Санкт-Петербург',
+             'description': None,
+             'lat': 59.966399,
+             'lng': 30.311511,
+             'metro': {'lat': 59.966389,
+                       'line_id': '15',
+                       'line_name': 'Московско-Петроградская',
+                       'lng': 30.311293,
+                       'station_id': '15.215',
+                       'station_name': 'Петроградская'},
+             'metro_stations': [{'lat': 59.966389,
+                                 'line_id': '15',
+                                 'line_name': 'Московско-Петроградская',
+                                 'lng': 30.311293,
+                                 'station_id': '15.215',
+                                 'station_name': 'Петроградская'}],
+             'raw': 'Санкт-Петербург, 2 линия, метро Петроградская',
+             'street': '2 линия'},
+ 'allow_messages': True,
+ 'alternate_url': 'https://hh.ru/vacancy/73869429',
+ 'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=73869429',
+ 'archived': False,
+ 'area': {'id': '2',
+          'name': 'Санкт-Петербург',
+          'url': 'https://api.hh.ru/areas/2?host=hh.ru'},
+ 'billing_type': {'id': 'standard_plus', 'name': 'Стандарт плюс'},
+ 'branded_description': None,
+ 'code': None,
+ 'contacts': None,
+ 'created_at': '2023-01-02T16:51:52+0300',
+ 'department': None,
+ 'description': '<p>Программист C#, Unity3d</p> <p>Команда опытных '
+                'разработчиков Crystal Rock ищет коллег в новый хардкорный '
+                'проект. За нашими плечами работа над Modern Strike Online, '
+                'World War Heroes и Modern Warships (суммарно более 250 млн '
+                'скачиваний). Ищем программистов уровня middle/senior на новый '
+                'онлайновый action-RPG в сеттинге сурового средневековья с '
+                'реалистичной 3D графикой.</p> <p>Санкт-Петербург.</p> '
+                '<p>Работа в офисе.</p> <p>Полный день с гибким графиком.</p> '
+                '<p>Мы ожидаем:</p> <p>• Уверенное знание основ '
+                'программирования.</p> <p>• Владение ООП и опыт применения на '
+                'практике.</p> <p>• Уверенное знание и опыт C#.</p> <p>• '
+                'Уверенное знание и опыт Unity3d.</p> <p>• Оценка '
+                'производительности алгоритмов и выбор оптимального '
+                'решения.</p> <p>• Навыки проектирования и поддержания '
+                'архитектуры, знакомство с паттернами проектирования.</p> <p>• '
+                'Умение писать аккуратный и поддерживаемый код.</p> <p>• '
+                'Умение читать плохой код и делать из него хороший.</p> <p>• '
+                'Организованность, навыки работы в команде в том числе с '
+                'применением agile-методик.</p> <p>• Желание разбираться в '
+                'новых технологиях и углублять знания в уже знакомых.</p> '
+                '<p>Было бы здорово:</p> <p>• Знания основ рендеринга и '
+                'графических устройств.</p> <p>• Навыки программирования '
+                'графики и шейдеров: directx, opengl, cg/hlsl/glsl.</p> <p>• '
+                'Владение геометрией и математикой на уровне 2 курса ВУЗа.</p> '
+                '<p>• Понимание оптимизации на низком уровне: байткод, '
+                'кеширование, оптимизация алгоритмов.</p> <p>Мы '
+                'предлагаем:</p> <p>• Офис в центре города, гибкий график.</p> '
+                '<p>• Дружный коллектив увлеченных людей.</p> <p>• Грамотное '
+                'управление проектом без овертаймов.</p> <p>• Стабильная '
+                'зарплата, оформление по ТК.</p> <p>• Интересные проекты и '
+                'возможность участвовать в разных сферах разработки.</p> '
+                '<p>#unity3d #unity #3d #csharp #midcore #hardcore #rpg '
+                '#programming #games #gamedev #fulltime</p>',
+ 'driver_license_types': [],
+ 'employer': {'alternate_url': 'https://hh.ru/employer/8954862',
+              'id': '8954862',
+              'logo_urls': {'240': 'https://hhcdn.ru/employer-logo/5606721.png',
+                            '90': 'https://hhcdn.ru/employer-logo/5606720.png',
+                            'original': 'https://hhcdn.ru/employer-logo-original/996481.png'},
+              'name': 'Crystal Rock ltd',
+              'trusted': True,
+              'url': 'https://api.hh.ru/employers/8954862?host=hh.ru',
+              'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=8954862&host=hh.ru'},
+ 'employment': {'id': 'full', 'name': 'Полная занятость'},
+ 'experience': {'id': 'between3And6', 'name': 'От 3 до 6 лет'},
+ 'has_test': False,
+ 'hidden': False,
+ 'id': '73869429',
+ 'initial_created_at': '2022-12-15T16:51:52+0300',
+ 'insider_interview': None,
+ 'key_skills': [{'name': 'Unity'}],
+ 'languages': [],
+ 'name': 'Unity3D C# Developer',
+ 'negotiations_url': None,
+ 'premium': False,
+ 'professional_roles': [{'id': '96', 'name': 'Программист, разработчик'}],
+ 'published_at': '2023-01-02T16:51:52+0300',
+ 'quick_responses_allowed': False,
+ 'relations': [],
+ 'response_letter_required': False,
+ 'response_url': None,
+ 'salary': {'currency': 'RUR', 'from': 150000, 'gross': False, 'to': 180000},
+ 'schedule': {'id': 'fullDay', 'name': 'Полный день'},
+ 'specializations': [{'id': '1.221',
+                      'name': 'Программирование, Разработка',
+                      'profarea_id': '1',
+                      'profarea_name': 'Информационные технологии, интернет, '
+                                       'телеком'},
+                     {'id': '1.50',
+                      'name': 'Системы управления предприятием (ERP)',
+                      'profarea_id': '1',
+                      'profarea_name': 'Информационные технологии, интернет, '
+                                       'телеком'},
+                     {'id': '1.82',
+                      'name': 'Инженер',
+                      'profarea_id': '1',
+                      'profarea_name': 'Информационные технологии, интернет, '
+                                       'телеком'},
+                     {'id': '1.9',
+                      'name': 'Web инженер',
+                      'profarea_id': '1',
+                      'profarea_name': 'Информационные технологии, интернет, '
+                                       'телеком'},
+                     {'id': '1.10',
+                      'name': 'Web мастер',
+                      'profarea_id': '1',
+                      'profarea_name': 'Информационные технологии, интернет, '
+                                       'телеком'}],
+ 'suitable_resumes_url': None,
+ 'test': None,
+ 'type': {'id': 'open', 'name': 'Открытая'},
+ 'vacancy_constructor_template': None,
+ 'working_days': [],
+ 'working_time_intervals': [],
+ 'working_time_modes': []}
+
+Process finished with exit code 0
+
+
+
+
+
+
+
+
+
